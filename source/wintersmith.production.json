@@ -3,5 +3,6 @@
     "title": "Webseiten on wintersmith"
   },
   "output": "../public/webseiten",
-  "contents": "../contents",
+  "ignore": [".git/*"],
+  "contents": "../contents"
 }

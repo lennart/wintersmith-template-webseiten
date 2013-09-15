@@ -3,6 +3,7 @@
     "title": "Webseiten on wintersmith"
   },
   "output": "../public/webseiten",
+  "ignore": [".git/*"],
   "contents": "../contents",
   "port": 9999
 }
