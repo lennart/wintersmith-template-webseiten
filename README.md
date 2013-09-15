@@ -1,15 +1,1 @@
-# Webseiten <small>for [wintersmith][ws]</small>
-
-A simple folder layout as a wintersmith template. Separate code from content and both from build artifacts.
-
-## Installation
-
-    $ mkdir -p ~/.wintersmith/templates
-    $ cd ~/.wintersmith/templates/
-    $ git clone git://github.com/lennart/wintersmith-template-webseiten webseiten
-  
-## Usage
-
-    $ wintersmith -T webseiten your-new-webseite
-  
-[ws]: http://wintersmith.io
+.git/annex/objects/0k/1K/SHA256E-s426--8cd994c3a10ebddea1f263226da111193c491a657e2432cf04c531b8b3ea35f0.md/SHA256E-s426--8cd994c3a10ebddea1f263226da111193c491a657e2432cf04c531b8b3ea35f0.md

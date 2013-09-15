@@ -1,9 +1,1 @@
-{
-  "locals": {
-    "title": "Webseiten on wintersmith"
-  },
-  "output": "../public/webseiten",
-  "ignore": [".git/*"],
-  "contents": "../contents",
-  "port": 9999
-}
+../.git/annex/objects/jJ/Fm/SHA256E-s166--6662b009d1f51f7e0f74940a37a30a3f8424bcdd52a7af7d961c1d91a7caf6a8.json/SHA256E-s166--6662b009d1f51f7e0f74940a37a30a3f8424bcdd52a7af7d961c1d91a7caf6a8.json
