@@ -1,8 +1,0 @@
-{
-  "locals": {
-    "title": "Webseiten on wintersmith"
-  },
-  "output": "../public/webseiten",
-  "contents": "../contents",
-  "port": 9999
-}
