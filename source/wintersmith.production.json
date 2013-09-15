@@ -3,5 +3,5 @@
     "title": "Webseiten on wintersmith"
   },
   "output": "../public/webseiten",
-  "contents": "../contents"
+  "contents": "../contents",
 }
