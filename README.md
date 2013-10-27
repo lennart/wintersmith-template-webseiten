@@ -1,4 +1,6 @@
-# Webseiten <small>for [wintersmith][ws]</small>
+# DEPRECATED: Webseiten <small>for [wintersmith][ws]</small>
+
+#### All work is now in a [grunt-init template](https://github.com/lennart/grunt-init-webseiten)
 
 A simple folder layout as a wintersmith template. Separate code from content and both from build artifacts.
 
